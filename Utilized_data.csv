@@ -1,0 +1,883 @@
+Date,LOC,RING,Sold_bandwidth,Utilized_bandwidth
+15-06-2021,chennai to kadappa,EIR,114.2,9.7
+15-06-2021,chennai to chennai vsb,EIR,119.1,1.9
+15-06-2021,chennai to hyderabad,EIR,106.9,0.4
+15-06-2021,hyderabad to kadappa 1,GCIR,116.8,4.5
+15-06-2021,kadappa to mumbai,GCIR,72.7,5.4
+15-06-2021,hyderabad to mumbai 2,GCIR,80.1,4.3
+15-06-2021,hyderabad to kadappa 2,NKCIR,10.9,0.6
+15-06-2021,kadappa to pune,NKCIR,15.7,1.2
+15-06-2021,delhi to noida,NNCIR,8.9,1.3
+15-06-2021,gurgaon to delhi,NNCIR,7.3,0.4
+15-06-2021,gurgaon to noida,NNCIR,7.3,0.8
+15-06-2021,hyderabad to delhi,NNIR,1.3,0.6
+15-06-2021,mumbai to delhi,NNIR,11.2,1.2
+15-06-2021,delhi to delhi vsb,NNIR,8.1,0.8
+15-06-2021,mumbai to pune,NWIR,37.6,3.6
+15-06-2021,hyderabad to pune,NWIR,37.8,2.1
+15-06-2021,hyderabad to mumbai 2 1,NWIR,36.5,1.5
+15-06-2021,ahmadabad to mumbai,NR,3.02,2.6
+15-06-2021,mumbai - mumbai vsb ,NR,167.8,6.7
+15-06-2021,hyderabad to kolu,NR,1.5,0.7
+15-06-2021,ernakullam to kadappa,NR,7.9,2.6
+22-06-2021,chennai to kadappa,EIR,115.4,9.3
+22-06-2021,chennai to chennai vsb,EIR,113.8,1.3
+22-06-2021,chennai to hyderabad,EIR,101.6,0.4
+22-06-2021,hyderabad to kadappa 1,GCIR,112.6,4.5
+22-06-2021,kadappa to mumbai,GCIR,72.6,6.5
+22-06-2021,hyderabad to mumbai 2 1,GCIR,80.3,4.3
+22-06-2021,hyderabad to kadappa 2,NKCIR,10.9,0.6
+22-06-2021,kadappa to pune,NKCIR,15.7,1.2
+22-06-2021,delhi to noida,NNCIR,8.1,1.3
+22-06-2021,gurgaon to delhi,NNCIR,7.3,0.4
+22-06-2021,gurgaon to noida,NNCIR,7.3,0.8
+22-06-2021,hyderabad to delhi,NNIR,1.3,0.6
+22-06-2021,mumbai to delhi,NNIR,11.2,1.2
+22-06-2021,delhi to delhi vsb,NNIR,8.1,0.8
+22-06-2021,mumbai to pune,NWIR,37.6,3.6
+22-06-2021,hyderabad to pune,NWIR,36.6,2.1
+22-06-2021,hyderabad to mumbai 2,NWIR,36.5,1.5
+22-06-2021,ahmadabad to mumbai,NR,2.1,2.6
+22-06-2021,mumbai - mumbai vsb ,NR,169,7.1
+22-06-2021,hyderabad to kolu,NR,1.5,0.7
+22-06-2021,ernakullam to kadappa,NR,9.7,2.6
+29-06-2021,chennai to kadappa,EIR,110.4,11.6
+29-06-2021,chennai to chennai vsb,EIR,108.8,1.3
+29-06-2021,chennai to hyderabad,EIR,96.6,0.4
+29-06-2021,hyderabad to kadappa 1,GCIR,107.6,1.6
+29-06-2021,kadappa to mumbai,GCIR,72.6,6.8
+29-06-2021,hyderabad to mumbai 2 1,GCIR,80.3,4.3
+29-06-2021,hyderabad to kadappa 2,NKCIR,10.9,0.6
+29-06-2021,kadappa to pune,NKCIR,15.7,1.2
+29-06-2021,delhi to noida,NNCIR,8.1,1.3
+29-06-2021,gurgaon to delhi,NNCIR,7.3,0.4
+29-06-2021,gurgaon to noida,NNCIR,7.3,0.8
+29-06-2021,hyderabad to delhi,NNIR,1.3,0.6
+29-06-2021,mumbai to delhi,NNIR,11.2,1.2
+29-06-2021,delhi to delhi vsb,NNIR,8.1,0.8
+29-06-2021,mumbai to pune,NWIR,37.6,3.6
+29-06-2021,hyderabad to pune,NWIR,36.6,1.7
+29-06-2021,hyderabad to mumbai 2,NWIR,36.5,1.5
+29-06-2021,ahmadabad to mumbai,NR,3.1,2.6
+29-06-2021,mumbai - mumbai vsb ,NR,170,7.1
+29-06-2021,hyderabad to kolu,NR,1.5,0.7
+29-06-2021,ernakullam to kadappa,NR,9.7,2.6
+06-07-2021,chennai to kadappa,EIR,106.2,9.7
+06-07-2021,chennai to chennai vsb,EIR,107.1,1.9
+06-07-2021,chennai to hyderabad,EIR,95.9,0.4
+06-07-2021,hyderabad to kadappa 1,GCIR,107.8,4.5
+06-07-2021,kadappa to mumbai,GCIR,73.7,5.4
+06-07-2021,hyderabad to mumbai 2 1,GCIR,76.1,4.3
+06-07-2021,hyderabad to kadappa 2,NKCIR,10.9,0.6
+06-07-2021,kadappa to pune,NKCIR,15.7,1.2
+06-07-2021,delhi to noida,NNCIR,8.9,1.3
+06-07-2021,gurgaon to delhi,NNCIR,7.3,0.4
+06-07-2021,gurgaon to noida,NNCIR,7.3,0.8
+06-07-2021,hyderabad to delhi,NNIR,1.3,0.6
+06-07-2021,mumbai to delhi,NNIR,11.2,1.2
+06-07-2021,delhi to delhi vsb,NNIR,8.1,0.8
+06-07-2021,mumbai to pune,NWIR,38.6,3.6
+06-07-2021,hyderabad to pune,NWIR,37.8,2.1
+06-07-2021,hyderabad to mumbai 2,NWIR,36.5,1.5
+06-07-2021,ahmadabad to mumbai,NR,3.02,2.6
+06-07-2021,mumbai - mumbai vsb ,NR,167.8,6.7
+06-07-2021,hyderabad to kolu,NR,1.5,0.7
+06-07-2021,ernakullam to kadappa,NR,9.7,2.6
+13-07-2021,chennai to kadappa,EIR,106.2,9.7
+13-07-2021,chennai to chennai vsb,EIR,107.1,1.9
+13-07-2021,chennai to hyderabad,EIR,95.9,0.4
+13-07-2021,hyderabad to kadappa 1,GCIR,107.8,6.6
+13-07-2021,kadappa to mumbai,GCIR,73.7,5.4
+13-07-2021,hyderabad to mumbai 2 1,GCIR,76.1,4.3
+13-07-2021,hyderabad to kadappa 2,NKCIR,10.9,0.6
+13-07-2021,kadappa to pune,NKCIR,15.7,1.2
+13-07-2021,delhi to noida,NNCIR,8.9,1.3
+13-07-2021,gurgaon to delhi,NNCIR,7.3,0.4
+13-07-2021,gurgaon to noida,NNCIR,7.3,0.8
+13-07-2021,hyderabad to delhi,NNIR,1.3,0.6
+13-07-2021,mumbai to delhi,NNIR,11.2,1.2
+13-07-2021,delhi to delhi vsb,NNIR,8.1,0.8
+13-07-2021,mumbai to pune,NWIR,38.6,3.6
+13-07-2021,hyderabad to pune,NWIR,37.8,2.1
+13-07-2021,hyderabad to mumbai 2,NWIR,36.5,1.5
+13-07-2021,ahmadabad to mumbai,NR,3.02,2.6
+13-07-2021,mumbai - mumbai vsb ,NR,179,6.2
+13-07-2021,hyderabad to kolu,NR,1.5,0.7
+13-07-2021,ernakullam to kadappa,NR,9.7,2.6
+20-07-2021,chennai to kadappa,EIR,115,10.3
+20-07-2021,chennai to chennai vsb,EIR,114,1.9
+20-07-2021,chennai to hyderabad,EIR,100,0.4
+20-07-2021,hyderabad to kadappa 1,GCIR,107,2.6
+20-07-2021,kadappa to mumbai,GCIR,83,6.6
+20-07-2021,hyderabad to mumbai 2 1,GCIR,80,2.6
+20-07-2021,hyderabad to kadappa 2,NKCIR,11,0.6
+20-07-2021,kadappa to pune,NKCIR,16,1.9
+20-07-2021,delhi to noida,NNCIR,8.1,1.3
+20-07-2021,gurgaon to delhi,NNCIR,7.3,0.4
+20-07-2021,gurgaon to noida,NNCIR,7.3,0.8
+20-07-2021,hyderabad to delhi,NNIR,2.5,0.6
+20-07-2021,mumbai to delhi,NNIR,11.2,1.3
+20-07-2021,delhi to delhi vsb,NNIR,9.1,0.8
+20-07-2021,mumbai to pune,NWIR,39,4.2
+20-07-2021,hyderabad to pune,NWIR,36,1.5
+20-07-2021,hyderabad to mumbai 2,NWIR,36.5,1.5
+20-07-2021,ahmadabad to mumbai,NR,2.1,2
+20-07-2021,mumbai - mumbai vsb ,NR,180,7.1
+20-07-2021,hyderabad to kolu,NR,1.5,0.7
+20-07-2021,ernakullam to kadappa,NR,9.7,2.6
+27-07-2021,chennai to kadappa,EIR,116,10.9
+27-07-2021,chennai to chennai vsb,EIR,113,1.1
+27-07-2021,chennai to hyderabad,EIR,99.8,0.6
+27-07-2021,hyderabad to kadappa 1,GCIR,107,4.1
+27-07-2021,kadappa to mumbai,GCIR,83,9.6
+27-07-2021,hyderabad to mumbai 2 1,GCIR,80,4.2
+27-07-2021,hyderabad to kadappa 2,NKCIR,11.9,0.7
+27-07-2021,kadappa to pune,NKCIR,16.7,1.2
+27-07-2021,delhi to noida,NNCIR,8,1.1
+27-07-2021,gurgaon to delhi,NNCIR,7.4,0.4
+27-07-2021,gurgaon to noida,NNCIR,7.2,0.7
+27-07-2021,hyderabad to delhi,NNIR,2.5,0.8
+27-07-2021,mumbai to delhi,NNIR,11.8,1.5
+27-07-2021,delhi to delhi vsb,NNIR,9.1,1
+27-07-2021,mumbai to pune,NWIR,44,3.8
+27-07-2021,hyderabad to pune,NWIR,43,2
+27-07-2021,hyderabad to mumbai 2,NWIR,41,0.5
+27-07-2021,ahmadabad to mumbai,NR,2.5,0.5
+27-07-2021,mumbai - mumbai vsb ,NR,185,6.7
+27-07-2021,hyderabad to kolu,NR,1.5,0.22
+27-07-2021,ernakullam to kadappa,NR,9.7,3.6
+03-08-2021,chennai to kadappa,EIR,117,11
+03-08-2021,chennai to chennai vsb,EIR,114,1.3
+03-08-2021,chennai to hyderabad,EIR,100,0.6
+03-08-2021,hyderabad to kadappa 1,GCIR,108,1.7
+03-08-2021,kadappa to mumbai,GCIR,84,6.4
+03-08-2021,hyderabad to mumbai 2 1,GCIR,81,1
+03-08-2021,hyderabad to kadappa 2,NKCIR,12,0.7
+03-08-2021,kadappa to pune,NKCIR,16.7,1.1
+03-08-2021,delhi to noida,NNCIR,8.1,1.1
+03-08-2021,gurgaon to delhi,NNCIR,7.4,0.2
+03-08-2021,gurgaon to noida,NNCIR,7.2,0.7
+03-08-2021,hyderabad to delhi,NNIR,1.6,0.6
+03-08-2021,mumbai to delhi,NNIR,11.4,1.2
+03-08-2021,delhi to delhi vsb,NNIR,8.1,0.8
+03-08-2021,mumbai to pune,NWIR,45,4
+03-08-2021,hyderabad to pune,NWIR,44,1.5
+03-08-2021,hyderabad to mumbai 2,NWIR,41.5,0.7
+03-08-2021,ahmadabad to mumbai,NR,2.1,0.8
+03-08-2021,mumbai - mumbai vsb ,NR,190,4.7
+03-08-2021,hyderabad to kolu,NR,1.5,0.08
+03-08-2021,ernakullam to kadappa,NR,9.7,3.9
+10-08-2021,chennai to kadappa,EIR,119,9.7
+10-08-2021,chennai to chennai vsb,EIR,117,1.6
+10-08-2021,chennai to hyderabad,EIR,101,0.5
+10-08-2021,hyderabad to kadappa 1,GCIR,112,1.8
+10-08-2021,kadappa to mumbai,GCIR,88,6.3
+10-08-2021,hyderabad to mumbai 2 1,GCIR,86,2.2
+10-08-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+10-08-2021,kadappa to pune,NKCIR,15.7,1.9
+10-08-2021,delhi to noida,NNCIR,8.1,1.1
+10-08-2021,gurgaon to delhi,NNCIR,7.4,0.3
+10-08-2021,gurgaon to noida,NNCIR,7.2,1
+10-08-2021,hyderabad to delhi,NNIR,1.6,1.4
+10-08-2021,mumbai to delhi,NNIR,11.4,2.1
+10-08-2021,delhi to delhi vsb,NNIR,8.1,1.6
+10-08-2021,mumbai to pune,NWIR,46,4.4
+10-08-2021,hyderabad to pune,NWIR,45.2,2.4
+10-08-2021,hyderabad to mumbai 2,NWIR,42,2.6
+10-08-2021,ahmadabad to mumbai,NR,2.1,0.8
+10-08-2021,mumbai - mumbai vsb ,NR,194,6.3
+10-08-2021,hyderabad to kolu,NR,1.5,0.03
+10-08-2021,ernakullam to kadappa,NR,9.7,3.9
+17-08-2021,chennai to kadappa,EIR,118.5,11.7
+17-08-2021,chennai to chennai vsb,EIR,114.6,4.1
+17-08-2021,chennai to hyderabad,EIR,98.6,3.7
+17-08-2021,hyderabad to kadappa 1,GCIR,111,3.6
+17-08-2021,kadappa to mumbai,GCIR,86.8,6.4
+17-08-2021,hyderabad to mumbai 2 1,GCIR,83.8,2.5
+17-08-2021,hyderabad to kadappa 2,NKCIR,12,1.2
+17-08-2021,kadappa to pune,NKCIR,15.7,1.9
+17-08-2021,delhi to noida,NNCIR,8.5,1.1
+17-08-2021,gurgaon to delhi,NNCIR,7.4,0.2
+17-08-2021,gurgaon to noida,NNCIR,7.2,0.9
+17-08-2021,hyderabad to delhi,NNIR,1.6,1.4
+17-08-2021,mumbai to delhi,NNIR,12.8,2
+17-08-2021,delhi to delhi vsb,NNIR,9.2,1.6
+17-08-2021,mumbai to pune,NWIR,46.5,5.1
+17-08-2021,hyderabad to pune,NWIR,45.7,2.6
+17-08-2021,hyderabad to mumbai 2,NWIR,43.4,1.5
+17-08-2021,ahmadabad to mumbai,NR,2.1,2.7
+17-08-2021,mumbai - mumbai vsb ,NR,194,5.5
+17-08-2021,hyderabad to kolu,NR,1.5,0.08
+17-08-2021,ernakullam to kadappa,NR,9.7,5.9
+24-08-2021,chennai to kadappa,EIR,120.9,11.7
+24-08-2021,chennai to chennai vsb,EIR,116.7,4.1
+24-08-2021,chennai to hyderabad,EIR,100.7,3.7
+24-08-2021,hyderabad to kadappa 1,GCIR,113,3.6
+24-08-2021,kadappa to mumbai,GCIR,84.6,6.4
+24-08-2021,hyderabad to mumbai 2 1,GCIR,83.1,2.5
+24-08-2021,hyderabad to kadappa 2,NKCIR,12,1.2
+24-08-2021,kadappa to pune,NKCIR,15.7,1.9
+24-08-2021,delhi to noida,NNCIR,8.5,1.1
+24-08-2021,gurgaon to delhi,NNCIR,7.3,0.2
+24-08-2021,gurgaon to noida,NNCIR,7.2,0.9
+24-08-2021,hyderabad to delhi,NNIR,1.6,1.4
+24-08-2021,mumbai to delhi,NNIR,12.8,2
+24-08-2021,delhi to delhi vsb,NNIR,9.1,1.6
+24-08-2021,mumbai to pune,NWIR,46.6,5.1
+24-08-2021,hyderabad to pune,NWIR,45.6,2.6
+24-08-2021,hyderabad to mumbai 2,NWIR,43.4,1.5
+24-08-2021,ahmadabad to mumbai,NR,2.1,2.7
+24-08-2021,mumbai - mumbai vsb ,NR,184,5.5
+24-08-2021,hyderabad to kolu,NR,1.4,0.08
+24-08-2021,ernakullam to kadappa,NR,9.7,5.9
+31-08-2021,chennai to kadappa,EIR,120.9,10.9
+31-08-2021,chennai to chennai vsb,EIR,116.7,1.4
+31-08-2021,chennai to hyderabad,EIR,100.7,0.3
+31-08-2021,hyderabad to kadappa 1,GCIR,113,3
+31-08-2021,kadappa to mumbai,GCIR,84.6,9.9
+31-08-2021,hyderabad to mumbai 2 1,GCIR,83.1,3.1
+31-08-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+31-08-2021,kadappa to pune,NKCIR,15.7,1.9
+31-08-2021,delhi to noida,NNCIR,8.5,1.2
+31-08-2021,gurgaon to delhi,NNCIR,7.3,0.8
+31-08-2021,gurgaon to noida,NNCIR,7.2,0.8
+31-08-2021,hyderabad to delhi,NNIR,1.6,1.4
+31-08-2021,mumbai to delhi,NNIR,12.8,2.1
+31-08-2021,delhi to delhi vsb,NNIR,9.1,2.2
+31-08-2021,mumbai to pune,NWIR,46.6,5.8
+31-08-2021,hyderabad to pune,NWIR,45.6,3.2
+31-08-2021,hyderabad to mumbai 2,NWIR,43.4,3.4
+31-08-2021,ahmadabad to mumbai,NR,2.1,0.8
+31-08-2021,mumbai - mumbai vsb ,NR,184,7.9
+31-08-2021,hyderabad to kolu,NR,1.4,0.2
+31-08-2021,ernakullam to kadappa,NR,9.7,4.1
+07-09-2021,chennai to kadappa,EIR,120.4,11
+07-09-2021,chennai to chennai vsb,EIR,112.6,1.3
+07-09-2021,chennai to hyderabad,EIR,99.1,0.6
+07-09-2021,hyderabad to kadappa 1,GCIR,112.5,1.3
+07-09-2021,kadappa to mumbai,GCIR,84.7,6.9
+07-09-2021,hyderabad to mumbai 2 1,GCIR,82.1,0.8
+07-09-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+07-09-2021,kadappa to pune,NKCIR,15.7,2.5
+07-09-2021,delhi to noida,NNCIR,8.2,1.5
+07-09-2021,gurgaon to delhi,NNCIR,7.5,0.3
+07-09-2021,gurgaon to noida,NNCIR,7.2,0.5
+07-09-2021,hyderabad to delhi,NNIR,1.6,1.5
+07-09-2021,mumbai to delhi,NNIR,14.5,4.1
+07-09-2021,delhi to delhi vsb,NNIR,11.3,1.7
+07-09-2021,mumbai to pune,NWIR,45.9,6
+07-09-2021,hyderabad to pune,NWIR,44.4,3.4
+07-09-2021,hyderabad to mumbai 2,NWIR,44.9,3.9
+07-09-2021,ahmadabad to mumbai,NR,2.1,0.9
+07-09-2021,mumbai - mumbai vsb ,NR,184,7.2
+07-09-2021,hyderabad to kolu,NR,1.4,0.06
+07-09-2021,ernakullam to kadappa,NR,9.7,4.1
+14-09-2021,chennai to kadappa,EIR,123.6,13.5
+14-09-2021,chennai to chennai vsb,EIR,121.3,3.3
+14-09-2021,chennai to hyderabad,EIR,104.9,0.7
+14-09-2021,hyderabad to kadappa 1,GCIR,116.7,2.2
+14-09-2021,kadappa to mumbai,GCIR,92.8,6.4
+14-09-2021,hyderabad to mumbai 2 1,GCIR,80.1,2
+14-09-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+14-09-2021,kadappa to pune,NKCIR,16.7,3.2
+14-09-2021,delhi to noida,NNCIR,9.4,1.4
+14-09-2021,gurgaon to delhi,NNCIR,8.5,0.6
+14-09-2021,gurgaon to noida,NNCIR,8.2,0.9
+14-09-2021,hyderabad to delhi,NNIR,1.9,1.4
+14-09-2021,mumbai to delhi,NNIR,16.5,4
+14-09-2021,delhi to delhi vsb,NNIR,13,1.9
+14-09-2021,mumbai to pune,NWIR,48.5,6.2
+14-09-2021,hyderabad to pune,NWIR,46.9,3.5
+14-09-2021,hyderabad to mumbai 2,NWIR,46.4,3.2
+14-09-2021,ahmadabad to mumbai,NR,2.1,1
+14-09-2021,mumbai - mumbai vsb ,NR,210,6.6
+14-09-2021,hyderabad to kolu,NR,1.6,0.07
+14-09-2021,ernakullam to kadappa,NR,9.7,5.1
+21-09-2021,chennai to kadappa,EIR,123.6,13.5
+21-09-2021,chennai to chennai vsb,EIR,121.3,3.3
+21-09-2021,chennai to hyderabad,EIR,104.9,0.7
+21-09-2021,hyderabad to kadappa 1,GCIR,116.7,2.2
+21-09-2021,kadappa to mumbai,GCIR,92.8,6.4
+21-09-2021,hyderabad to mumbai 2 1,GCIR,80.1,2
+21-09-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+21-09-2021,kadappa to pune,NKCIR,16.7,3.2
+21-09-2021,delhi to noida,NNCIR,9.4,1.4
+21-09-2021,gurgaon to delhi,NNCIR,8.5,0.6
+21-09-2021,gurgaon to noida,NNCIR,8.2,0.9
+21-09-2021,hyderabad to delhi,NNIR,1.9,1.4
+21-09-2021,mumbai to delhi,NNIR,16.5,4
+21-09-2021,delhi to delhi vsb,NNIR,13,1.9
+21-09-2021,mumbai to pune,NWIR,48.5,6.2
+21-09-2021,hyderabad to pune,NWIR,46.9,3.5
+21-09-2021,hyderabad to mumbai 2,NWIR,46.4,3.2
+21-09-2021,ahmadabad to mumbai,NR,2.1,1
+21-09-2021,mumbai - mumbai vsb ,NR,210,6.6
+21-09-2021,hyderabad to kolu,NR,1.6,0.07
+21-09-2021,ernakullam to kadappa,NR,9.7,5.1
+28-09-2021,chennai to kadappa,EIR,123.6,13.5
+28-09-2021,chennai to chennai vsb,EIR,121.3,3.3
+28-09-2021,chennai to hyderabad,EIR,104.9,0.7
+28-09-2021,hyderabad to kadappa 1,GCIR,116.7,2.2
+28-09-2021,kadappa to mumbai,GCIR,92.8,6.4
+28-09-2021,hyderabad to mumbai 2 1,GCIR,80.1,2
+28-09-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+28-09-2021,kadappa to pune,NKCIR,16.7,3.2
+28-09-2021,delhi to noida,NNCIR,9.4,1.4
+28-09-2021,gurgaon to delhi,NNCIR,8.5,0.6
+28-09-2021,gurgaon to noida,NNCIR,8.2,0.9
+28-09-2021,hyderabad to delhi,NNIR,1.9,1.4
+28-09-2021,mumbai to delhi,NNIR,16.5,4
+28-09-2021,delhi to delhi vsb,NNIR,13,1.9
+28-09-2021,mumbai to pune,NWIR,48.5,6.2
+28-09-2021,hyderabad to pune,NWIR,46.9,3.5
+28-09-2021,hyderabad to mumbai 2,NWIR,46.4,3.2
+28-09-2021,ahmadabad to mumbai,NR,2.1,1
+28-09-2021,mumbai - mumbai vsb ,NR,210,6.6
+28-09-2021,hyderabad to kolu,NR,1.6,0.07
+28-09-2021,ernakullam to kadappa,NR,9.7,5.1
+05-10-2021,chennai to kadappa,EIR,123.6,13.5
+05-10-2021,chennai to chennai vsb,EIR,121.3,3.3
+05-10-2021,chennai to hyderabad,EIR,104.9,0.7
+05-10-2021,hyderabad to kadappa 1,GCIR,116.7,2.2
+05-10-2021,kadappa to mumbai,GCIR,92.8,6.4
+05-10-2021,hyderabad to mumbai 2 1,GCIR,80.1,2
+05-10-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+05-10-2021,kadappa to pune,NKCIR,16.7,3.2
+05-10-2021,delhi to noida,NNCIR,9.4,1.4
+05-10-2021,gurgaon to delhi,NNCIR,8.5,0.6
+05-10-2021,gurgaon to noida,NNCIR,8.2,0.9
+05-10-2021,hyderabad to delhi,NNIR,1.9,1.4
+05-10-2021,mumbai to delhi,NNIR,16.5,4
+05-10-2021,delhi to delhi vsb,NNIR,13,1.9
+05-10-2021,mumbai to pune,NWIR,48.5,6.2
+05-10-2021,hyderabad to pune,NWIR,46.9,3.5
+05-10-2021,hyderabad to mumbai 2,NWIR,46.4,3.2
+05-10-2021,ahmadabad to mumbai,NR,2.1,1
+05-10-2021,mumbai - mumbai vsb ,NR,210,6.6
+05-10-2021,hyderabad to kolu,NR,1.6,0.07
+05-10-2021,ernakullam to kadappa,NR,9.7,5.1
+12-10-2021,chennai to kadappa,EIR,123.6,13.5
+12-10-2021,chennai to chennai vsb,EIR,121.3,3.3
+12-10-2021,chennai to hyderabad,EIR,104.9,0.7
+12-10-2021,hyderabad to kadappa 1,GCIR,116.7,2.2
+12-10-2021,kadappa to mumbai,GCIR,92.8,6.4
+12-10-2021,hyderabad to mumbai 2 1,GCIR,80.1,2
+12-10-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+12-10-2021,kadappa to pune,NKCIR,16.7,3.2
+12-10-2021,delhi to noida,NNCIR,9.4,1.4
+12-10-2021,gurgaon to delhi,NNCIR,8.5,0.6
+12-10-2021,gurgaon to noida,NNCIR,8.2,0.9
+12-10-2021,hyderabad to delhi,NNIR,1.9,1.4
+12-10-2021,mumbai to delhi,NNIR,16.5,4
+12-10-2021,delhi to delhi vsb,NNIR,13,1.9
+12-10-2021,mumbai to pune,NWIR,48.5,6.2
+12-10-2021,hyderabad to pune,NWIR,46.9,3.5
+12-10-2021,hyderabad to mumbai 2,NWIR,46.4,3.2
+12-10-2021,ahmadabad to mumbai,NR,2.1,1
+12-10-2021,mumbai - mumbai vsb ,NR,210,6.6
+12-10-2021,hyderabad to kolu,NR,1.6,0.07
+12-10-2021,ernakullam to kadappa,NR,9.7,5.1
+19-10-2021,chennai to kadappa,EIR,123.6,13.5
+19-10-2021,chennai to chennai vsb,EIR,121.3,3.3
+19-10-2021,chennai to hyderabad,EIR,104.9,0.7
+19-10-2021,hyderabad to kadappa 1,GCIR,116.7,2.2
+19-10-2021,kadappa to mumbai,GCIR,92.8,6.4
+19-10-2021,hyderabad to mumbai 2 1,GCIR,80.1,2
+19-10-2021,hyderabad to kadappa 2,NKCIR,12,0.8
+19-10-2021,kadappa to pune,NKCIR,16.7,3.2
+19-10-2021,delhi to noida,NNCIR,9.4,1.4
+19-10-2021,gurgaon to delhi,NNCIR,8.5,0.6
+19-10-2021,gurgaon to noida,NNCIR,8.2,0.9
+19-10-2021,hyderabad to delhi,NNIR,1.9,1.4
+19-10-2021,mumbai to delhi,NNIR,16.5,4
+19-10-2021,delhi to delhi vsb,NNIR,13,1.9
+19-10-2021,mumbai to pune,NWIR,48.5,6.2
+19-10-2021,hyderabad to pune,NWIR,46.9,3.5
+19-10-2021,hyderabad to mumbai 2,NWIR,46.4,3.2
+19-10-2021,ahmadabad to mumbai,NR,2.1,1
+19-10-2021,mumbai - mumbai vsb ,NR,210,6.6
+19-10-2021,hyderabad to kolu,NR,1.6,0.07
+19-10-2021,ernakullam to kadappa,NR,9.7,5.1
+26-10-2021,chennai to kadappa,EIR,127.8,10.9
+26-10-2021,chennai to chennai vsb,EIR,122.4,1.2
+26-10-2021,chennai to hyderabad,EIR,106,0.9
+26-10-2021,hyderabad to kadappa 1,GCIR,124,1.4
+26-10-2021,kadappa to mumbai,GCIR,101,7.5
+26-10-2021,hyderabad to mumbai 2 1,GCIR,90.7,0.6
+26-10-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+26-10-2021,kadappa to pune,NKCIR,16.7,2.4
+26-10-2021,delhi to noida,NNCIR,10.1,1.3
+26-10-2021,gurgaon to delhi,NNCIR,9.5,0.4
+26-10-2021,gurgaon to noida,NNCIR,9.2,0.6
+26-10-2021,hyderabad to delhi,NNIR,1.9,1.4
+26-10-2021,mumbai to delhi,NNIR,19.8,4
+26-10-2021,delhi to delhi vsb,NNIR,18.8,1.8
+26-10-2021,mumbai to pune,NWIR,51.3,6
+26-10-2021,hyderabad to pune,NWIR,48.8,3.5
+26-10-2021,hyderabad to mumbai 2,NWIR,48.3,2.3
+26-10-2021,ahmadabad to mumbai,NR,2.1,0.8
+26-10-2021,mumbai - mumbai vsb ,NR,225,5.6
+26-10-2021,hyderabad to kolu,NR,1.6,0.03
+26-10-2021,ernakullam to kadappa,NR,9.7,3.7
+02-11-2021,chennai to kadappa,EIR,129.8,10.7
+02-11-2021,chennai to chennai vsb,EIR,124.4,1.4
+02-11-2021,chennai to hyderabad,EIR,108,0.6
+02-11-2021,hyderabad to kadappa 1,GCIR,133.5,1.2
+02-11-2021,kadappa to mumbai,GCIR,106.7,7.6
+02-11-2021,hyderabad to mumbai 2 1,GCIR,95.9,0.6
+02-11-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+02-11-2021,kadappa to pune,NKCIR,16.9,1.9
+02-11-2021,delhi to noida,NNCIR,10.4,1.3
+02-11-2021,gurgaon to delhi,NNCIR,9.5,0.4
+02-11-2021,gurgaon to noida,NNCIR,9.2,0.6
+02-11-2021,hyderabad to delhi,NNIR,1.9,1.4
+02-11-2021,mumbai to delhi,NNIR,19.8,4
+02-11-2021,delhi to delhi vsb,NNIR,18.8,1.8
+02-11-2021,mumbai to pune,NWIR,51.2,5
+02-11-2021,hyderabad to pune,NWIR,48.1,3.5
+02-11-2021,hyderabad to mumbai 2,NWIR,49.1,2.3
+02-11-2021,ahmadabad to mumbai,NR,2.1,0.8
+02-11-2021,mumbai - mumbai vsb ,NR,230.3,5.6
+02-11-2021,hyderabad to kolu,NR,1.6,0.03
+02-11-2021,ernakullam to kadappa,NR,9.7,3.7
+09-11-2021,chennai to kadappa,EIR,129.8,9.9
+09-11-2021,chennai to chennai vsb,EIR,124.4,1.4
+09-11-2021,chennai to hyderabad,EIR,108,0.6
+09-11-2021,hyderabad to kadappa 1,GCIR,133.7,1.2
+09-11-2021,kadappa to mumbai,GCIR,107,7.6
+09-11-2021,hyderabad to mumbai 2 1,GCIR,96.1,0.6
+09-11-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+09-11-2021,kadappa to pune,NKCIR,16.7,1.9
+09-11-2021,delhi to noida,NNCIR,10.4,1.3
+09-11-2021,gurgaon to delhi,NNCIR,9.5,0.4
+09-11-2021,gurgaon to noida,NNCIR,9.2,0.6
+09-11-2021,hyderabad to delhi,NNIR,1.9,1.4
+09-11-2021,mumbai to delhi,NNIR,19.8,4
+09-11-2021,delhi to delhi vsb,NNIR,18.8,1.8
+09-11-2021,mumbai to pune,NWIR,52.6,5
+09-11-2021,hyderabad to pune,NWIR,48.8,3.5
+09-11-2021,hyderabad to mumbai 2,NWIR,49.1,2.3
+09-11-2021,ahmadabad to mumbai,NR,2.1,0.8
+09-11-2021,mumbai - mumbai vsb ,NR,231,9.3
+09-11-2021,hyderabad to kolu,NR,1.6,0.03
+09-11-2021,ernakullam to kadappa,NR,9.7,3.5
+16-11-2021,chennai to kadappa,EIR,129.8,10.2
+16-11-2021,chennai to chennai vsb,EIR,124.4,4.9
+16-11-2021,chennai to hyderabad,EIR,108,4.7
+16-11-2021,hyderabad to kadappa 1,GCIR,133.7,4.6
+16-11-2021,kadappa to mumbai,GCIR,107,7
+16-11-2021,hyderabad to mumbai 2 1,GCIR,96.1,4.6
+16-11-2021,hyderabad to kadappa 2,NKCIR,11,2
+16-11-2021,kadappa to pune,NKCIR,16.7,2.2
+16-11-2021,delhi to noida,NNCIR,10.4,2.1
+16-11-2021,gurgaon to delhi,NNCIR,9.5,1.6
+16-11-2021,gurgaon to noida,NNCIR,9.2,1.8
+16-11-2021,hyderabad to delhi,NNIR,1.9,1.6
+16-11-2021,mumbai to delhi,NNIR,19.8,3.8
+16-11-2021,delhi to delhi vsb,NNIR,18.8,3.1
+16-11-2021,mumbai to pune,NWIR,52.6,6.2
+16-11-2021,hyderabad to pune,NWIR,48.8,3.4
+16-11-2021,hyderabad to mumbai 2,NWIR,49.1,2.8
+16-11-2021,ahmadabad to mumbai,NR,2.1,1.3
+16-11-2021,mumbai - mumbai vsb ,NR,231,8.5
+16-11-2021,hyderabad to kolu,NR,1.6,0.01
+16-11-2021,ernakullam to kadappa,NR,9.7,3
+23-11-2021,chennai to kadappa,EIR,140,7.7
+23-11-2021,chennai to chennai vsb,EIR,124.4,1.5
+23-11-2021,chennai to hyderabad,EIR,110,1.9
+23-11-2021,hyderabad to kadappa 1,GCIR,133.8,5.8
+23-11-2021,kadappa to mumbai,GCIR,107,7.9
+23-11-2021,hyderabad to mumbai 2 1,GCIR,96.1,5.7
+23-11-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+23-11-2021,kadappa to pune,NKCIR,16.7,2
+23-11-2021,delhi to noida,NNCIR,10.4,1.4
+23-11-2021,gurgaon to delhi,NNCIR,9.3,0.3
+23-11-2021,gurgaon to noida,NNCIR,9.2,1.1
+23-11-2021,hyderabad to delhi,NNIR,2,1.4
+23-11-2021,mumbai to delhi,NNIR,17.1,2.4
+23-11-2021,delhi to delhi vsb,NNIR,18.6,1.8
+23-11-2021,mumbai to pune,NWIR,54.6,5.8
+23-11-2021,hyderabad to pune,NWIR,50.1,3
+23-11-2021,hyderabad to mumbai 2,NWIR,51,1.5
+23-11-2021,ahmadabad to mumbai,NR,2.1,0.8
+23-11-2021,mumbai - mumbai vsb ,NR,217,9.3
+23-11-2021,hyderabad to kolu,NR,1.6,0.04
+23-11-2021,ernakullam to kadappa,NR,9.7,0.07
+30-11-2021,chennai to kadappa,EIR,140.6,6.9
+30-11-2021,chennai to chennai vsb,EIR,124.9,2
+30-11-2021,chennai to hyderabad,EIR,110.4,0.8
+30-11-2021,hyderabad to kadappa 1,GCIR,136.6,6
+30-11-2021,kadappa to mumbai,GCIR,108.2,7.7
+30-11-2021,hyderabad to mumbai 2 1,GCIR,98.3,6
+30-11-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+30-11-2021,kadappa to pune,NKCIR,16.5,2.3
+30-11-2021,delhi to noida,NNCIR,10.4,1.4
+30-11-2021,gurgaon to delhi,NNCIR,9.3,0.4
+30-11-2021,gurgaon to noida,NNCIR,9.2,0.8
+30-11-2021,hyderabad to delhi,NNIR,2.3,1.4
+30-11-2021,mumbai to delhi,NNIR,17.4,2.8
+30-11-2021,delhi to delhi vsb,NNIR,19,2
+30-11-2021,mumbai to pune,NWIR,54.6,6.8
+30-11-2021,hyderabad to pune,NWIR,50.1,3.3
+30-11-2021,hyderabad to mumbai 2,NWIR,51.1,1.2
+30-11-2021,ahmadabad to mumbai,NR,9.1,0.8
+30-11-2021,mumbai - mumbai vsb ,NR,215,9.5
+30-11-2021,hyderabad to kolu,NR,1.2,0.003
+30-11-2021,ernakullam to kadappa,NR,9.7,0.05
+07-12-2021,chennai to kadappa,EIR,140.6,7
+07-12-2021,chennai to chennai vsb,EIR,124.9,5
+07-12-2021,chennai to hyderabad,EIR,110.4,5
+07-12-2021,hyderabad to kadappa 1,GCIR,136.6,4
+07-12-2021,kadappa to mumbai,GCIR,108.2,8
+07-12-2021,hyderabad to mumbai 2 1,GCIR,98.3,1
+07-12-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+07-12-2021,kadappa to pune,NKCIR,16.5,2.4
+07-12-2021,delhi to noida,NNCIR,10.4,2.4
+07-12-2021,gurgaon to delhi,NNCIR,9.3,0.5
+07-12-2021,gurgaon to noida,NNCIR,9.2,0.9
+07-12-2021,hyderabad to delhi,NNIR,2.3,1.5
+07-12-2021,mumbai to delhi,NNIR,17.5,3.4
+07-12-2021,delhi to delhi vsb,NNIR,19,1.8
+07-12-2021,mumbai to pune,NWIR,54.6,5.8
+07-12-2021,hyderabad to pune,NWIR,50.1,3.4
+07-12-2021,hyderabad to mumbai 2,NWIR,51.1,1.6
+07-12-2021,ahmadabad to mumbai,NR,9.1,0.8
+07-12-2021,mumbai - mumbai vsb ,NR,215.7,5
+07-12-2021,hyderabad to kolu,NR,1.2,0.07
+07-12-2021,ernakullam to kadappa,NR,9.7,0.04
+14-12-2021,chennai to kadappa,EIR,140.6,8.4
+14-12-2021,chennai to chennai vsb,EIR,124.9,3.7
+14-12-2021,chennai to hyderabad,EIR,110.4,4.7
+14-12-2021,hyderabad to kadappa 1,GCIR,136.8,4.8
+14-12-2021,kadappa to mumbai,GCIR,108.3,8.2
+14-12-2021,hyderabad to mumbai 2 1,GCIR,98.4,4.6
+14-12-2021,hyderabad to kadappa 2,NKCIR,11,0.8
+14-12-2021,kadappa to pune,NKCIR,16.5,3.4
+14-12-2021,delhi to noida,NNCIR,10.4,2.4
+14-12-2021,gurgaon to delhi,NNCIR,8.3,1.8
+14-12-2021,gurgaon to noida,NNCIR,8.2,1.8
+14-12-2021,hyderabad to delhi,NNIR,2.3,1.4
+14-12-2021,mumbai to delhi,NNIR,17.5,4.5
+14-12-2021,delhi to delhi vsb,NNIR,18,3.3
+14-12-2021,mumbai to pune,NWIR,54.6,6.4
+14-12-2021,hyderabad to pune,NWIR,50.1,3.9
+14-12-2021,hyderabad to mumbai 2,NWIR,51.1,1.8
+14-12-2021,ahmadabad to mumbai,NR,9.1,0.8
+14-12-2021,mumbai - mumbai vsb ,NR,215.9,7.8
+14-12-2021,hyderabad to kolu,NR,1.2,0.07
+14-12-2021,ernakullam to kadappa,NR,9.7,0.07
+21-12-2021,chennai to kadappa,EIR,140.6,6
+21-12-2021,chennai to chennai vsb,EIR,124.4,1.3
+21-12-2021,chennai to hyderabad,EIR,110.4,0.7
+21-12-2021,hyderabad to kadappa 1,GCIR,142.6,2.6
+21-12-2021,kadappa to mumbai,GCIR,113.4,6.4
+21-12-2021,hyderabad to mumbai 2 1,GCIR,104.5,2
+21-12-2021,hyderabad to kadappa 2,NKCIR,11,3.5
+21-12-2021,kadappa to pune,NKCIR,16.5,2.7
+21-12-2021,delhi to noida,NNCIR,10.4,2.9
+21-12-2021,gurgaon to delhi,NNCIR,8.3,0.9
+21-12-2021,gurgaon to noida,NNCIR,8.2,0.9
+21-12-2021,hyderabad to delhi,NNIR,2.3,2
+21-12-2021,mumbai to delhi,NNIR,17.5,3.4
+21-12-2021,delhi to delhi vsb,NNIR,17.9,2.4
+21-12-2021,mumbai to pune,NWIR,54.6,1.9
+21-12-2021,hyderabad to pune,NWIR,49.1,4.2
+21-12-2021,hyderabad to mumbai 2,NWIR,50.1,2
+21-12-2021,ahmadabad to mumbai,NR,9.1,0.8
+21-12-2021,mumbai - mumbai vsb ,NR,221.1,5.3
+21-12-2021,hyderabad to kolu,NR,1.2,0.13
+21-12-2021,ernakullam to kadappa,NR,9.7,0.42
+28-12-2021,chennai to kadappa,EIR,140.6,6
+28-12-2021,chennai to chennai vsb,EIR,124.4,1.3
+28-12-2021,chennai to hyderabad,EIR,110.4,0.7
+28-12-2021,hyderabad to kadappa 1,GCIR,142.6,2.6
+28-12-2021,kadappa to mumbai,GCIR,113.4,6.4
+28-12-2021,hyderabad to mumbai 2 1,GCIR,104.5,2
+28-12-2021,hyderabad to kadappa 2,NKCIR,11,3.5
+28-12-2021,kadappa to pune,NKCIR,16.5,2.7
+28-12-2021,delhi to noida,NNCIR,10.4,2.9
+28-12-2021,gurgaon to delhi,NNCIR,8.3,0.9
+28-12-2021,gurgaon to noida,NNCIR,8.2,0.9
+28-12-2021,hyderabad to delhi,NNIR,2.3,2
+28-12-2021,mumbai to delhi,NNIR,17.5,3.4
+28-12-2021,delhi to delhi vsb,NNIR,17.9,2.4
+28-12-2021,mumbai to pune,NWIR,54.6,1.9
+28-12-2021,hyderabad to pune,NWIR,49.1,4.2
+28-12-2021,hyderabad to mumbai 2,NWIR,50.1,2
+28-12-2021,ahmadabad to mumbai,NR,9.1,0.8
+28-12-2021,mumbai - mumbai vsb ,NR,221.1,5.3
+28-12-2021,hyderabad to kolu,NR,1.2,0.13
+28-12-2021,ernakullam to kadappa,NR,9.7,0.42
+04-01-2022,chennai to kadappa,EIR,140.6,6.2
+04-01-2022,chennai to chennai vsb,EIR,127.5,1.6
+04-01-2022,chennai to hyderabad,EIR,113.5,1.6
+04-01-2022,hyderabad to kadappa 1,GCIR,142.8,3.6
+04-01-2022,kadappa to mumbai,GCIR,113.6,6.5
+04-01-2022,hyderabad to mumbai 2 1,GCIR,104,3.7
+04-01-2022,hyderabad to kadappa 2,NKCIR,15,3.5
+04-01-2022,kadappa to pune,NKCIR,16.5,3
+04-01-2022,delhi to noida,NNCIR,10.4,2.5
+04-01-2022,gurgaon to delhi,NNCIR,8.3,0.9
+04-01-2022,gurgaon to noida,NNCIR,8.2,1
+04-01-2022,hyderabad to delhi,NNIR,2.3,1.4
+04-01-2022,mumbai to delhi,NNIR,17.5,3.5
+04-01-2022,delhi to delhi vsb,NNIR,17.9,2.4
+04-01-2022,mumbai to pune,NWIR,54.7,6
+04-01-2022,hyderabad to pune,NWIR,49.2,4
+04-01-2022,hyderabad to mumbai 2,NWIR,50.2,2.3
+04-01-2022,ahmadabad to mumbai,NR,9.1,0.8
+04-01-2022,mumbai - mumbai vsb ,NR,221.4,7.3
+04-01-2022,hyderabad to kolu,NR,1.17,0.83
+04-01-2022,ernakullam to kadappa,NR,9.7,0.0591
+11-01-2022,chennai to kadappa,EIR,140.6,6.8
+11-01-2022,chennai to chennai vsb,EIR,127.5,1.2
+11-01-2022,chennai to hyderabad,EIR,113.5,0.5
+11-01-2022,hyderabad to kadappa 1,GCIR,142.8,1.4
+11-01-2022,kadappa to mumbai,GCIR,113.6,5.8
+11-01-2022,hyderabad to mumbai 2 1,GCIR,104.8,0.6
+11-01-2022,hyderabad to kadappa 2,NKCIR,15,0.9
+11-01-2022,kadappa to pune,NKCIR,16.5,2
+11-01-2022,delhi to noida,NNCIR,10.4,2.5
+11-01-2022,gurgaon to delhi,NNCIR,8.3,0.155
+11-01-2022,gurgaon to noida,NNCIR,8.2,1.1
+11-01-2022,hyderabad to delhi,NNIR,2.3,1.4
+11-01-2022,mumbai to delhi,NNIR,17.5,3.3
+11-01-2022,delhi to delhi vsb,NNIR,17.9,1.6
+11-01-2022,mumbai to pune,NWIR,54.7,6.4
+11-01-2022,hyderabad to pune,NWIR,49.2,3.4
+11-01-2022,hyderabad to mumbai 2,NWIR,50.2,1.5
+11-01-2022,ahmadabad to mumbai,NR,9.2,0.845
+11-01-2022,mumbai - mumbai vsb ,NR,221,5
+11-01-2022,hyderabad to kolu,NR,1.17,0.064
+11-01-2022,ernakullam to kadappa,NR,9.7,0.062
+18-01-2022,chennai to kadappa,EIR,140.6,6.8
+18-01-2022,chennai to chennai vsb,EIR,127.5,1.2
+18-01-2022,chennai to hyderabad,EIR,113.5,0.5
+18-01-2022,hyderabad to kadappa 1,GCIR,142.8,1.4
+18-01-2022,kadappa to mumbai,GCIR,113.6,5.8
+18-01-2022,hyderabad to mumbai 2 1,GCIR,104.8,0.6
+18-01-2022,hyderabad to kadappa 2,NKCIR,15,0.9
+18-01-2022,kadappa to pune,NKCIR,16.5,2
+18-01-2022,delhi to noida,NNCIR,10.4,2.5
+18-01-2022,gurgaon to delhi,NNCIR,8.3,0.155
+18-01-2022,gurgaon to noida,NNCIR,8.2,1.1
+18-01-2022,hyderabad to delhi,NNIR,2.3,1.4
+18-01-2022,mumbai to delhi,NNIR,17.5,3.3
+18-01-2022,delhi to delhi vsb,NNIR,17.9,1.6
+18-01-2022,mumbai to pune,NWIR,54.7,6.4
+18-01-2022,hyderabad to pune,NWIR,49.2,3.4
+18-01-2022,hyderabad to mumbai 2,NWIR,50.2,1.5
+18-01-2022,ahmadabad to mumbai,NR,9.2,0.845
+18-01-2022,mumbai - mumbai vsb ,NR,221,5
+18-01-2022,hyderabad to kolu,NR,1.17,0.064
+18-01-2022,ernakullam to kadappa,NR,9.7,0.062
+25-01-2022,chennai to kadappa,EIR,140.6,7.9
+25-01-2022,chennai to chennai vsb,EIR,127.5,1.7
+25-01-2022,chennai to hyderabad,EIR,113.5,1
+25-01-2022,hyderabad to kadappa 1,GCIR,150.3,1.8
+25-01-2022,kadappa to mumbai,GCIR,122,3
+25-01-2022,hyderabad to mumbai 2 1,GCIR,113.8,1.4
+25-01-2022,hyderabad to kadappa 2,NKCIR,15,0.8
+25-01-2022,kadappa to pune,NKCIR,16.5,2
+25-01-2022,delhi to noida,NNCIR,10.4,1.3
+25-01-2022,gurgaon to delhi,NNCIR,8.3,0.86
+25-01-2022,gurgaon to noida,NNCIR,8.2,0.821
+25-01-2022,hyderabad to delhi,NNIR,2.3,1.6
+25-01-2022,mumbai to delhi,NNIR,17.5,2.3
+25-01-2022,delhi to delhi vsb,NNIR,17.9,2.1
+25-01-2022,mumbai to pune,NWIR,54.7,5.8
+25-01-2022,hyderabad to pune,NWIR,49.2,2.5
+25-01-2022,hyderabad to mumbai 2,NWIR,50.2,2.4
+25-01-2022,ahmadabad to mumbai,NR,9.2,2.8
+25-01-2022,mumbai - mumbai vsb ,NR,239,8.3
+25-01-2022,hyderabad to kolu,NR,1.17,0.117
+25-01-2022,ernakullam to kadappa,NR,9.7,0.062
+01-02-2022,chennai to kadappa,EIR,140.6,12.5
+01-02-2022,chennai to chennai vsb,EIR,126.4,2
+01-02-2022,chennai to hyderabad,EIR,112.3,1.2
+01-02-2022,hyderabad to kadappa 1,GCIR,149.4,2.6
+01-02-2022,kadappa to mumbai,GCIR,121,4.4
+01-02-2022,hyderabad to mumbai 2 1,GCIR,112.7,2
+01-02-2022,hyderabad to kadappa 2,NKCIR,17.5,1.2
+01-02-2022,kadappa to pune,NKCIR,16.5,2.5
+01-02-2022,delhi to noida,NNCIR,10.5,1.4
+01-02-2022,gurgaon to delhi,NNCIR,8.3,0.494
+01-02-2022,gurgaon to noida,NNCIR,8.2,0.661
+01-02-2022,hyderabad to delhi,NNIR,2.3,1.4
+01-02-2022,mumbai to delhi,NNIR,17.5,2.4
+01-02-2022,delhi to delhi vsb,NNIR,17.9,1.9
+01-02-2022,mumbai to pune,NWIR,54.7,5.8
+01-02-2022,hyderabad to pune,NWIR,49.2,2.3
+01-02-2022,hyderabad to mumbai 2,NWIR,50.2,1.7
+01-02-2022,ahmadabad to mumbai,NR,9.2,3
+01-02-2022,mumbai - mumbai vsb ,NR,239,9.4
+01-02-2022,hyderabad to kolu,NR,1.17,0.0896
+01-02-2022,ernakullam to kadappa,NR,9.7,0.016
+08-02-2022,chennai to kadappa,EIR,140.6,6.4
+08-02-2022,chennai to chennai vsb,EIR,126.4,1.8
+08-02-2022,chennai to hyderabad,EIR,112.3,0.967
+08-02-2022,hyderabad to kadappa 1,GCIR,149.4,2.7
+08-02-2022,kadappa to mumbai,GCIR,121,7.6
+08-02-2022,hyderabad to mumbai 2 1,GCIR,112.7,2.5
+08-02-2022,hyderabad to kadappa 2,NKCIR,17.5,1.6
+08-02-2022,kadappa to pune,NKCIR,16.5,1.4
+08-02-2022,delhi to noida,NNCIR,10.5,1.3
+08-02-2022,gurgaon to delhi,NNCIR,8.3,0.085
+08-02-2022,gurgaon to noida,NNCIR,8.2,0.779
+08-02-2022,hyderabad to delhi,NNIR,2.3,1.4
+08-02-2022,mumbai to delhi,NNIR,17.5,3.1
+08-02-2022,delhi to delhi vsb,NNIR,17.9,1.5
+08-02-2022,mumbai to pune,NWIR,54.7,5.8
+08-02-2022,hyderabad to pune,NWIR,49.2,2.4
+08-02-2022,hyderabad to mumbai 2,NWIR,50.2,1.8
+08-02-2022,ahmadabad to mumbai,NR,9.2,3
+08-02-2022,mumbai - mumbai vsb ,NR,239,9.1
+08-02-2022,hyderabad to kolu,NR,1.17,0.0896
+08-02-2022,ernakullam to kadappa,NR,9.7,0.0356
+15-02-2022,chennai to kadappa,EIR,140,13.7
+15-02-2022,chennai to chennai vsb,EIR,126.4,6.8
+15-02-2022,chennai to hyderabad,EIR,112.3,6.6
+15-02-2022,hyderabad to kadappa 1,GCIR,149.4,1.5
+15-02-2022,kadappa to mumbai,GCIR,121,6.8
+15-02-2022,hyderabad to mumbai 2 1,GCIR,112.7,5.8
+15-02-2022,hyderabad to kadappa 2,NKCIR,17.5,0.825
+15-02-2022,kadappa to pune,NKCIR,16.5,1.5
+15-02-2022,delhi to noida,NNCIR,10.5,2.9
+15-02-2022,gurgaon to delhi,NNCIR,8.3,1
+15-02-2022,gurgaon to noida,NNCIR,8.2,1.1
+15-02-2022,hyderabad to delhi,NNIR,2.3,1.4
+15-02-2022,mumbai to delhi,NNIR,17.5,4
+15-02-2022,delhi to delhi vsb,NNIR,17.9,2.4
+15-02-2022,mumbai to pune,NWIR,56.6,5.5
+15-02-2022,hyderabad to pune,NWIR,49.2,3.4
+15-02-2022,hyderabad to mumbai 2,NWIR,50.2,3.7
+15-02-2022,ahmadabad to mumbai,NR,9.2,3
+15-02-2022,mumbai - mumbai vsb ,NR,234,8.2
+15-02-2022,hyderabad to kolu,NR,1.17,0.14
+15-02-2022,ernakullam to kadappa,NR,9.7,0.0507
+22-02-2022,chennai to kadappa,EIR,140,14.5
+22-02-2022,chennai to chennai vsb,EIR,126.4,6.4
+22-02-2022,chennai to hyderabad,EIR,112.3,1.7
+22-02-2022,hyderabad to kadappa 1,GCIR,149.4,4.9
+22-02-2022,kadappa to mumbai,GCIR,121,0
+22-02-2022,hyderabad to mumbai 2 1,GCIR,112.7,1.4
+22-02-2022,hyderabad to kadappa 2,NKCIR,17.5,0.809
+22-02-2022,kadappa to pune,NKCIR,16.5,1.5
+22-02-2022,delhi to noida,NNCIR,10.5,1.4
+22-02-2022,gurgaon to delhi,NNCIR,8.3,0.105
+22-02-2022,gurgaon to noida,NNCIR,8.2,0.724
+22-02-2022,hyderabad to delhi,NNIR,2.3,1.4
+22-02-2022,mumbai to delhi,NNIR,17.5,2.3
+22-02-2022,delhi to delhi vsb,NNIR,17.9,1.5
+22-02-2022,mumbai to pune,NWIR,56.6,5.5
+22-02-2022,hyderabad to pune,NWIR,49.2,2.8
+22-02-2022,hyderabad to mumbai 2,NWIR,50.2,2.7
+22-02-2022,ahmadabad to mumbai,NR,9.2,2.9
+22-02-2022,mumbai - mumbai vsb ,NR,234,0
+22-02-2022,hyderabad to kolu,NR,1.17,0.139
+22-02-2022,ernakullam to kadappa,NR,9.7,0
+01-03-2022,chennai to kadappa,EIR,140,13.18
+01-03-2022,chennai to chennai vsb,EIR,126.4,1.6
+01-03-2022,chennai to hyderabad,EIR,112.3,0.537
+01-03-2022,hyderabad to kadappa 1,GCIR,149.4,4.3
+01-03-2022,kadappa to mumbai,GCIR,121,0
+01-03-2022,hyderabad to mumbai 2 1,GCIR,113,0.674
+01-03-2022,hyderabad to kadappa 2,NKCIR,17.5,0.83
+01-03-2022,kadappa to pune,NKCIR,16.5,1.8
+01-03-2022,delhi to noida,NNCIR,10.5,1
+01-03-2022,gurgaon to delhi,NNCIR,8.3,0.000207
+01-03-2022,gurgaon to noida,NNCIR,8.2,0.288
+01-03-2022,hyderabad to delhi,NNIR,2.8,1.4
+01-03-2022,mumbai to delhi,NNIR,18,2.3
+01-03-2022,delhi to delhi vsb,NNIR,18.5,1.5
+01-03-2022,mumbai to pune,NWIR,56.6,6.8
+01-03-2022,hyderabad to pune,NWIR,49.2,2.4
+01-03-2022,hyderabad to mumbai 2,NWIR,50.2,1.5
+01-03-2022,ahmadabad to mumbai,NR,9.2,1.6
+01-03-2022,mumbai - mumbai vsb ,NR,234,0
+01-03-2022,hyderabad to kolu,NR,1.17,0.043
+01-03-2022,ernakullam to kadappa,NR,9.7,0
+08-03-2022,chennai to kadappa,EIR,140,15
+08-03-2022,chennai to chennai vsb,EIR,126.4,5.4
+08-03-2022,chennai to hyderabad,EIR,112.3,5.3
+08-03-2022,hyderabad to kadappa 1,GCIR,149.4,3.8
+08-03-2022,kadappa to mumbai,GCIR,121,0
+08-03-2022,hyderabad to mumbai 2 1,GCIR,113,0.681
+08-03-2022,hyderabad to kadappa 2,NKCIR,17.5,0.83
+08-03-2022,kadappa to pune,NKCIR,16.5,1.8
+08-03-2022,delhi to noida,NNCIR,10.5,1.4
+08-03-2022,gurgaon to delhi,NNCIR,8.3,0.501
+08-03-2022,gurgaon to noida,NNCIR,8.2,0.589
+08-03-2022,hyderabad to delhi,NNIR,2.8,1.5
+08-03-2022,mumbai to delhi,NNIR,18,2.4
+08-03-2022,delhi to delhi vsb,NNIR,18.5,1.9
+08-03-2022,mumbai to pune,NWIR,56.6,6.4
+08-03-2022,hyderabad to pune,NWIR,49.2,2.6
+08-03-2022,hyderabad to mumbai 2,NWIR,50.2,2.7
+08-03-2022,ahmadabad to mumbai,NR,9.2,3
+08-03-2022,mumbai - mumbai vsb ,NR,234,0
+08-03-2022,hyderabad to kolu,NR,1.17,0.077
+08-03-2022,ernakullam to kadappa,NR,9.7,0
+15-03-2022,chennai to kadappa,EIR,140,0
+15-03-2022,chennai to chennai vsb,EIR,126,3.9
+15-03-2022,chennai to hyderabad,EIR,111.7,4.5
+15-03-2022,hyderabad to kadappa 1,GCIR,149.2,0
+15-03-2022,kadappa to mumbai,GCIR,121,0
+15-03-2022,hyderabad to mumbai 2 1,GCIR,113,2.6
+15-03-2022,hyderabad to kadappa 2,NKCIR,17.5,0
+15-03-2022,kadappa to pune,NKCIR,16.8,0
+15-03-2022,delhi to noida,NNCIR,10.8,1.4
+15-03-2022,gurgaon to delhi,NNCIR,8.6,0.583
+15-03-2022,gurgaon to noida,NNCIR,8.5,0.735
+15-03-2022,hyderabad to delhi,NNIR,3.1,1.5
+15-03-2022,mumbai to delhi,NNIR,18.8,2.6
+15-03-2022,delhi to delhi vsb,NNIR,18.8,1.9
+15-03-2022,mumbai to pune,NWIR,56.9,6.7
+15-03-2022,hyderabad to pune,NWIR,49.5,3.2
+15-03-2022,hyderabad to mumbai 2,NWIR,50.5,1.8
+15-03-2022,ahmadabad to mumbai,NR,9.1,3
+15-03-2022,mumbai - mumbai vsb ,NR,237.7,0
+15-03-2022,hyderabad to kolu,NR,1.17,0.0922
+15-03-2022,ernakullam to kadappa,NR,10,0
+22-03-2022,chennai to kadappa,EIR,136.8,0
+22-03-2022,chennai to chennai vsb,EIR,126,8.2
+22-03-2022,chennai to hyderabad,EIR,111.7,8.3
+22-03-2022,hyderabad to kadappa 1,GCIR,149,0
+22-03-2022,kadappa to mumbai,GCIR,121,0
+22-03-2022,hyderabad to mumbai 2 1,GCIR,113,3.9
+22-03-2022,hyderabad to kadappa 2,NKCIR,17.5,0
+22-03-2022,kadappa to pune,NKCIR,16.8,0
+22-03-2022,delhi to noida,NNCIR,10.8,1.4
+22-03-2022,gurgaon to delhi,NNCIR,8.6,0.583
+22-03-2022,gurgaon to noida,NNCIR,8.5,0.964
+22-03-2022,hyderabad to delhi,NNIR,3.1,1.5
+22-03-2022,mumbai to delhi,NNIR,18.8,2.6
+22-03-2022,delhi to delhi vsb,NNIR,18.8,2.9
+22-03-2022,mumbai to pune,NWIR,56.9,1.7
+22-03-2022,hyderabad to pune,NWIR,49.5,3.1
+22-03-2022,hyderabad to mumbai 2,NWIR,50.5,2.2
+22-03-2022,ahmadabad to mumbai,NR,9.1,3
+22-03-2022,mumbai - mumbai vsb ,NR,241.9,0
+22-03-2022,hyderabad to kolu,NR,1.17,0.115
+22-03-2022,ernakullam to kadappa,NR,10,0
+29-03-2022,chennai to kadappa,EIR,136.8,
+29-03-2022,chennai to chennai vsb,EIR,126,
+29-03-2022,chennai to hyderabad,EIR,111.7,
+29-03-2022,hyderabad to kadappa 1,GCIR,149,
+29-03-2022,kadappa to mumbai,GCIR,121.4,
+29-03-2022,hyderabad to mumbai 2 1,GCIR,113,
+29-03-2022,hyderabad to kadappa 2,NKCIR,17.9,
+29-03-2022,kadappa to pune,NKCIR,17.4,
+29-03-2022,delhi to noida,NNCIR,10.8,
+29-03-2022,gurgaon to delhi,NNCIR,8.6,
+29-03-2022,gurgaon to noida,NNCIR,8.5,
+29-03-2022,hyderabad to delhi,NNIR,3.1,
+29-03-2022,mumbai to delhi,NNIR,18.8,
+29-03-2022,delhi to delhi vsb,NNIR,18.8,
+29-03-2022,mumbai to pune,NWIR,56.9,
+29-03-2022,hyderabad to pune,NWIR,50.8,
+29-03-2022,hyderabad to mumbai 2,NWIR,50.5,
+29-03-2022,ahmadabad to mumbai,NR,9.1,
+29-03-2022,mumbai - mumbai vsb ,NR,244.3,
+29-03-2022,hyderabad to kolu,NR,1.17,
+29-03-2022,ernakullam to kadappa,NR,10,
